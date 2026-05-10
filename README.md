@@ -37,9 +37,9 @@ The system has four layers:
 
 ## Scrum Board
 
-> **[View the project Scrum board here](PASTE_YOUR_GITHUB_PROJECTS_OR_TRELLO_LINK_HERE)**
+URL: https://g404.atlassian.net?continue=https%3A%2F%2Fg404.atlassian.net%2Fwelcome%2Fsoftware&atlOrigin=eyJpIjoiM2ZiZWMzYTI4Y2FkNDVlZThlOTYxNWVlYzVjZTU0ZmQiLCJwIjoiaiJ9 
 
-Board columns: **To Do** · **In Progress** · **Done**
+Board columns: To Do, · In Progress, · Done
 
 ---
 
