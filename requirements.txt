@@ -1,0 +1,11 @@
+# XML parsing
+lxml>=5.0.0
+python-dateutil>=2.9.0
+
+# Optional: FastAPI bonus layer
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.7.0
+
+# Testing
+pytest>=8.0.0
