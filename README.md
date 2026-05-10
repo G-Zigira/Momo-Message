@@ -1,17 +1,16 @@
 # MoMo SMS Data Analytics Dashboard
 
-> Team project — ALU Software Engineering · Fullstack Enterprise Application
+> Done by Group 404
 
 ## Team
 
 | Name | GitHub | Role |
 |------|--------|------|
-| [Member 1] | @username1 | Team Lead / Backend |
-| [Member 2] | @username2 | ETL / Data Processing |
-| [Member 3] | @username3 | Frontend / Visualization |
-| [Member 4] | @username4 | Database / API |
-
-> **Replace the placeholders above with your real names and GitHub usernames.**
+| Zigira Luc Guevara | g.zigira@alustudent | Team Lead / Backend |
+| Keza Laura | k.laura@alustudent.com | Data Processing |
+| Ineza Henry Jayz | i.henryjay@alustudent.com| Frontend / Visualization |
+| Collins Wairimu | c.wairimu@alustudent.com | Database / API |
+| Denzel Ngabo | d.ngabo@alustudent.com| Etl/Testing|
 
 ---
 
