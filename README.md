@@ -37,9 +37,9 @@ The system has four layers:
 
 ## Scrum Board
 
-URL: https://g404.atlassian.net?continue=https%3A%2F%2Fg404.atlassian.net%2Fwelcome%2Fsoftware&atlOrigin=eyJpIjoiM2ZiZWMzYTI4Y2FkNDVlZThlOTYxNWVlYzVjZTU0ZmQiLCJwIjoiaiJ9 
+URL: https://g404.atlassian.net/jira/software/projects/SCRUM/boards/1
 
-Board columns: To Do, · In Progress, · Done
+Board columns: To Do, · In Progress, · Done, .In Review
 
 ---
 
