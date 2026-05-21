@@ -6,7 +6,7 @@
 
 | Name | GitHub | Role |
 |------|--------|------|
-| Zigira Luc Guevara | g.zigira@alustudent | Team Lead / Backend |
+| Zigira Luc Guevara | g.zigira@alustudent.com | Team Lead / Backend |
 | Keza Laura | k.laura@alustudent.com | Data Processing |
 | Ineza Henry Jayz | i.henryjay@alustudent.com| Frontend / Visualization |
 | Collins Wairimu | c.wairimu@alustudent.com | Database / API |
