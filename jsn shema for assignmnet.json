@@ -1,0 +1,43 @@
+{
+  "transaction": {
+    "transaction_id": 1,
+    "momo_ref": "MOMO001",
+    "amount": 5000.00,
+    "status": "SUCCESS",
+    "transaction_date": "2026-05-18T12:30:00",
+    "fee": 50.00,
+    "sender": {
+      "user_id": 1,
+      "full_name": "Alice Uwase",
+      "phone_number": "0788000001"
+    },
+    "receiver": {
+      "user_id": 2,
+      "full_name": "Bob Mugisha",
+      "phone_number": "0788000002"
+    },
+    "category": {
+      "category_id": 1,
+      "category_name": "Transfer",
+      "category_code": "TRF"
+    },
+    "participants": [
+      {
+        "user_id": 1,
+        "role": "sender"
+      },
+      {
+        "user_id": 2,
+        "role": "receiver"
+      }
+    ],
+    "logs": [
+      {
+        "log_id": 1,
+        "event_type": "INFO",
+        "message": "Transaction parsed successfully",
+        "source": "XML Parser"
+      }
+    ]
+  }
+}
